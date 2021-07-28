@@ -1,0 +1,22 @@
+[
+    {
+        "img": "https://materializecss.com/images/sample-1.jpg",
+        "title": "Card Title 1",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae dolore "
+    },
+    {
+        "img": "https://materializecss.com/images/office.jpg",
+        "title": "Card Title 2",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae dolore "
+    },
+    {
+        "img": "https://materializecss.com/images/office.jpg",
+        "title": "Card Title 3",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae dolore "
+    },
+    {
+        "img": "https://materializecss.com/images/sample-1.jpg",
+        "title": "Card Title 4",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae dolore "
+    }
+]
